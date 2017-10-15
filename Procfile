@@ -1,0 +1,1 @@
+worker: node winner_winner_fidget_spinner_bot.py
