@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "winner-winner-fidget-spinner.py",
+  "scripts": {
+    "start": "node winner-winner-fidget-spinner.py"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
